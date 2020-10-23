@@ -2,7 +2,7 @@
 
 
 ---
-![Orange and White Funny Dating Animated Presentation](https://user-images.githubusercontent.com/42516515/95879485-09764980-0d94-11eb-8d3d-e17ff3c93e31.gif)
+![manthan_gupta](https://user-images.githubusercontent.com/42516515/97008708-cfa9fd80-1560-11eb-8b6c-6872b346f306.gif)
 
 I am a Full-stack Flutter Mobile Developer who is exploring MERN stack while helping other fellow peers figure out. :wink:
  
