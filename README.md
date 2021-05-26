@@ -4,7 +4,7 @@
 ---
 ![manthan_gupta](https://user-images.githubusercontent.com/42516515/97008708-cfa9fd80-1560-11eb-8b6c-6872b346f306.gif)
 
-I am a Full-stack Flutter Mobile Developer who is exploring MERN stack while helping other fellow peers figure out. :wink:
+I am a Backend Engineer who is exploring building systems while helping other fellow peers figure out. :wink:
  
  🔭 I’m planning for multiple Projects.
  
@@ -12,7 +12,7 @@ I am a Full-stack Flutter Mobile Developer who is exploring MERN stack while hel
  
  :books: I want to learn <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
  
- 👯 I’m looking to collaborate for a Flutter and ML-based project.
+ 👯 I’m looking to collaborate on a Full-Stack Project.
  
  🤔 I’m looking for help with creating youtube content to teach coding.
  
